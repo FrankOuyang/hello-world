@@ -1,4 +1,4 @@
 # hello-world
-Hello World
+Hello
 
 test for hello world
